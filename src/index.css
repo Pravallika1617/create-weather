@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-image: url('https://akm-img-a-in.tosshub.com/sites/weather/resources/image/bg/clouds.jpg?size=910%E2%88%B6431');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
